@@ -1,16 +1,18 @@
-### Hi there 👋
+# 💫 About Me:
+ About Me<br>👋 Hello! I'm [Your Name], a passionate software engineer with a knack for crafting captivating web experiences. Graduated in Computer Science and Engineering in the class of 2023, I've dived headfirst into the dynamic world of web development.<br><br>What I Do:<br>🌐 Web Development: My playground is the World Wide Web, where I bring designs to life and build interactive, user-friendly websites.<br><br>⚛️ React.js Enthusiast: I'm deeply in love with React.js! It's not just a library for me; it's a way of thinking. I strive to create efficient, scalable, and elegant web applications using React.js.<br><br>🔧 Full-Stack Wizardry: From front-end magic with HTML, CSS, and JavaScript to back-end sorcery with Python, C, and C++, I love working across the full stack. Crafting seamless experiences from server to client is my forte.<br><br>What Drives Me:<br>🚀 Passion for Innovation: The tech landscape is ever-evolving, and I'm here for it! I thrive on exploring the latest trends, tools, and techniques to build next-level web solutions.<br><br>🌟 User-Centric Design: I believe the best web apps are the ones that users love. That's why I prioritize intuitive interfaces, smooth interactions, and a pixel-perfect design in everything I create.<br><br>🌱 Continuous Learning: As a recent graduate, I'm hungry for knowledge. Whether it's mastering a new framework or diving into cutting-edge technologies, I'm always eager to learn and grow.<br><br>Let's Connect!<br>📫 Get in Touch: Have a project idea, collaboration opportunity, or just want to geek out over web development? Feel free to reach out! I'm always up for a chat.<br><br>🌐 Portfolio: Check out some of my latest projects on my portfolio website YourPortfolio.com.<br><br>🔗 LinkedIn: Connect with me on LinkedIn for more professional updates and insights.<br><br>Let's build the web of tomorrow, one line of code at a time! 🌐✨
 
-<!--
-**aadilraza077/aadilraza077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadilraza077) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadilraza077) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aadilraza077) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aadilraza077&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aadilraza077&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadilraza077&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aadilraza077&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
